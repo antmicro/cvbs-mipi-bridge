@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: decoder.PcbDoc   2015-07-13  15:28:03
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mod_ADV7280-M.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          9                0.35 Inch (8.80 mm)
+T2        10mil (0.254mm)          Round          26               4.96 Inch (125.98 mm)
+T3        23.62mil (0.59995mm)     Round          8                0.72 Inch (18.32 mm)
+T4        40.16mil (1.02006mm)     Round          2                0.10 Inch (2.54 mm)
+T5        47.24mil (1.1999mm)      Round          8                2.18 Inch (55.32 mm)
+T6        61.81mil (1.56997mm)     Round          2                0.64 Inch (16.26 mm)
+T7        78.74mil (2mm)           Round          4                1.74 Inch (44.32 mm)
+T8        94.49mil (2.40005mm)     Round          4                1.74 Inch (44.32 mm)
+T9        125.98mil (3.19989mm)    Round          2         NPTH   1.97 Inch (50.00 mm)
+T10       127.95mil (3.24993mm)    Round          2         NPTH   0.50 Inch (12.70 mm)
+---------------------------------------------------------------------------
+Totals                                            67               14.90 Inch (378.57 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
