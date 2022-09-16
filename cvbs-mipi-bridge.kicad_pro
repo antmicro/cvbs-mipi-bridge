@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "antmicro-cvbs-mipi-bridge.kicad_pro",
+    "filename": "cvbs-mipi-bridge.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -460,7 +460,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "antmicro-cvbs-mipi-bridge.wrl"
     },
     "page_layout_descr_file": ""
   },

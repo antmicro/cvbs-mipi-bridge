@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: Y:\ModADV7280-M\ModADV7280-M_Rev.2.0\decoder.PcbDoc
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.92
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
