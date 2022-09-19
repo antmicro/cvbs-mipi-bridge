@@ -57,6 +57,176 @@
                     (effects 
                         (font 
                             (size 1.27 1.27))))))) 
+    (symbol "KLPX-0848A-2-Y" 
+        (pin_names 
+            (offset 1.016) hide) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "J" 
+            (id 0) 
+            (at -6.35 6.35 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom))) 
+        (property "Value" "KLPX-0848A-2-Y" 
+            (id 1) 
+            (at -6.35 -7.62 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom))) 
+        (property "Footprint" "antmicro-footprints:KLPX-0848A-2-Y" 
+            (id 2) 
+            (at -5.08 -10.16 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom) hide)) 
+        (property "Datasheet" "https://www.kycon.com/2013Catalogpage/RCA/KLPX.pdf" 
+            (id 3) 
+            (at -5.08 -8.89 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom) hide)) 
+        (property "Manufacturer" "KYCON" 
+            (id 4) 
+            (at -5.08 -11.43 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom) hide)) 
+        (property "MPN" "KLPX-0848A-2-Y" 
+            (id 5) 
+            (at -5.08 -12.7 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left bottom) hide)) 
+        (symbol "KLPX-0848A-2-Y_0_0" 
+            (polyline 
+                (pts 
+                    (xy -5.08 3.81) 
+                    (xy -5.08 -1.27)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -5.08 3.81) 
+                    (xy -2.54 3.81)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -3.81 -2.54) 
+                    (xy 5.08 -2.54)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -2.54 -1.27) 
+                    (xy -5.08 -1.27)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -2.54 3.81) 
+                    (xy -2.54 -1.27)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0 3.81) 
+                    (xy 1.27 2.54)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 1.27 2.54) 
+                    (xy 2.54 3.81)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 2.54 3.81) 
+                    (xy 5.08 3.81)) 
+                (stroke 
+                    (width 0.1524) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (pin passive line 
+                (at 10.16 -2.54 180) 
+                (length 5.08) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.016 1.016)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 1.016 1.016))))) 
+            (pin passive line 
+                (at 10.16 3.81 180) 
+                (length 5.08) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.016 1.016)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 1.016 1.016)))))) 
+        (symbol "KLPX-0848A-2-Y_0_1" 
+            (polyline 
+                (pts 
+                    (xy -3.81 -2.54) 
+                    (xy -3.81 -1.27)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (rectangle 
+                (start 6.35 6.35) 
+                (end -6.35 -5.08) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type background))))) 
     (symbol "C_100n_0402" 
         (pin_names 
             (offset 0)) 
@@ -245,189 +415,6 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
-    (symbol "PJRAN1X1U01X" 
-        (pin_names 
-            (offset 1.016) hide) 
-        (in_bom yes) 
-        (on_board yes) 
-        (property "Reference" "J" 
-            (id 0) 
-            (at -5.08 8.89 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom))) 
-        (property "Value" "PJRAN1X1U01X" 
-            (id 1) 
-            (at -5.08 -6.35 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom))) 
-        (property "Footprint" "cvbs-mipi-bridge-footprints:PJRAN1X1U01X" 
-            (id 2) 
-            (at -5.08 -10.16 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom) hide)) 
-        (property "Datasheet" "https://www.mouser.pl/datasheet/2/393/pjran1x1u__x_series_cd-2943269.pdf" 
-            (id 3) 
-            (at -5.08 -8.89 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom) hide)) 
-        (property "Manufacturer" "Switchcraft" 
-            (id 4) 
-            (at -5.08 -11.43 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom) hide)) 
-        (property "MPN" "PJRAN1X1U01X" 
-            (id 5) 
-            (at -5.08 -12.7 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) 
-                (justify left bottom) hide)) 
-        (symbol "PJRAN1X1U01X_0_0" 
-            (polyline 
-                (pts 
-                    (xy -7.62 5.08) 
-                    (xy -7.62 0)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -7.62 5.08) 
-                    (xy -5.08 5.08)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -5.08 -2.54) 
-                    (xy 2.54 -2.54)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -5.08 0) 
-                    (xy -7.62 0)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -5.08 5.08) 
-                    (xy -5.08 -2.54)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -2.54 5.08) 
-                    (xy -1.27 3.81)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -1.27 3.81) 
-                    (xy 0 5.08)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 0 5.08) 
-                    (xy 2.54 5.08)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 3.81) 
-                    (xy 2.54 0)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 1.905 3.81) 
-                    (xy 2.54 5.08) 
-                    (xy 3.175 3.81) 
-                    (xy 1.905 3.81)) 
-                (stroke 
-                    (width 0.1524) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type background))) 
-            (pin passive line 
-                (at 7.62 -2.54 180) 
-                (length 5.08) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016)))) 
-                (number "1" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016))))) 
-            (pin passive line 
-                (at 7.62 5.08 180) 
-                (length 5.08) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016)))) 
-                (number "2" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016))))) 
-            (pin passive line 
-                (at 7.62 0 180) 
-                (length 5.08) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016)))) 
-                (number "3" 
-                    (effects 
-                        (font 
-                            (size 1.016 1.016))))))) 
     (symbol "9774030243R" 
         (pin_names 
             (offset 1.016)) 
@@ -518,7 +505,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "antmicro-footprints:0402-res" 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3255,7 +3242,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "antmicro-footprints:0603-cap" 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
