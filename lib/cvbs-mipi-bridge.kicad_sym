@@ -321,6 +321,167 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
+    (symbol "UCLAMP2501T.TCT" 
+        (pin_names 
+            (offset 1.016)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "D" 
+            (id 0) 
+            (at -5.0292 4.1148 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "UCLAMP2501T.TCT" 
+            (id 1) 
+            (at 0.0508 -4.2164 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:SLP1006P2T" 
+            (id 2) 
+            (at 5.08 5.08 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "https://www.mouser.pl/datasheet/2/761/SEMT_S_A0001059921_1-2575569.pdf" 
+            (id 3) 
+            (at 5.08 7.62 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Manufacturer" "SEMTECH" 
+            (id 4) 
+            (at 5.08 27.94 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "UCLAMP2501T.TCT" 
+            (id 5) 
+            (at 5.08 12.7 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (symbol "UCLAMP2501T.TCT_0_1" 
+            (rectangle 
+                (start -5.0292 3.048) 
+                (end 5.08 -2.9464) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type background))) 
+            (polyline 
+                (pts 
+                    (xy -3.175 0) 
+                    (xy -6.35 0)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0 0) 
+                    (xy -5.08 0)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0 0) 
+                    (xy 2.54 0)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0.635 -1.905) 
+                    (xy 1.27 -2.54)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0.635 1.905) 
+                    (xy 0 2.54)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 0.635 1.905) 
+                    (xy 0.635 -1.905)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy 2.54 0) 
+                    (xy 5.08 0)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -1.27 1.905) 
+                    (xy -1.27 -1.905) 
+                    (xy 0.635 0) 
+                    (xy -1.27 1.905)) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type outline)))) 
+        (symbol "UCLAMP2501T.TCT_1_1" 
+            (pin passive line 
+                (at -7.62 0 0) 
+                (length 2.54) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27)))) 
+                (number "A" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27))))) 
+            (pin passive line 
+                (at 7.62 0 180) 
+                (length 2.54) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27)))) 
+                (number "K" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27))))))) 
     (symbol "C_1u_0402" 
         (pin_names 
             (offset 0)) 
@@ -2386,345 +2547,6 @@
                 (at 0 5.08 270) 
                 (length 2.54) 
                 (name "D" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27)))) 
-                (number "3" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27))))))) 
-    (symbol "PESD1CAN_215" 
-        (pin_names 
-            (offset 0)) 
-        (in_bom yes) 
-        (on_board yes) 
-        (property "Reference" "D" 
-            (id 0) 
-            (at -5.08 6.096 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left))) 
-        (property "Value" "PESD1CAN_215" 
-            (id 1) 
-            (at 0 -6.35 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)))) 
-        (property "Footprint" "cvbs-mipi-bridge-footprints:SOT-23-3" 
-            (id 2) 
-            (at 5.08 5.08 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 
-            (id 3) 
-            (at 5.08 7.62 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Manufacturer" "Nexperia USA Inc." 
-            (id 4) 
-            (at 5.08 27.94 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "MPN" "PESD1CAN,215" 
-            (id 5) 
-            (at 5.08 12.7 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (symbol "PESD1CAN_215_0_1" 
-            (rectangle 
-                (start -5.08 5.08) 
-                (end 5.08 -5.08) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type background))) 
-            (polyline 
-                (pts 
-                    (xy -5.08 -2.54) 
-                    (xy -3.81 -2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -5.08 2.54) 
-                    (xy -3.81 2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 -3.81) 
-                    (xy -3.175 -3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 -1.27) 
-                    (xy -4.445 -1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 -1.27) 
-                    (xy -3.81 -3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 1.27) 
-                    (xy -3.175 1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 3.81) 
-                    (xy -4.445 3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -3.81 3.81) 
-                    (xy -3.81 1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 0.635 -2.54) 
-                    (xy -1.905 -2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 0.635 2.54) 
-                    (xy -1.905 2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 0.635 2.54) 
-                    (xy 0.635 2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 -3.81) 
-                    (xy 3.175 -3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 -1.27) 
-                    (xy 1.905 -1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 -1.27) 
-                    (xy 2.54 -3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 1.27) 
-                    (xy 3.175 1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 3.81) 
-                    (xy 1.905 3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 3.81) 
-                    (xy 2.54 1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 3.81 0) 
-                    (xy 5.08 0)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -1.905 -1.27) 
-                    (xy -1.905 -3.81) 
-                    (xy -3.81 -2.54) 
-                    (xy -1.905 -1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type outline))) 
-            (polyline 
-                (pts 
-                    (xy -1.905 1.27) 
-                    (xy -1.905 3.81) 
-                    (xy -3.81 2.54) 
-                    (xy -1.905 1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type outline))) 
-            (polyline 
-                (pts 
-                    (xy 0.635 -1.27) 
-                    (xy 0.635 -3.81) 
-                    (xy 2.54 -2.54) 
-                    (xy 0.635 -1.27)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type outline))) 
-            (polyline 
-                (pts 
-                    (xy 0.635 3.81) 
-                    (xy 0.635 1.27) 
-                    (xy 2.54 2.54) 
-                    (xy 0.635 3.81)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type outline))) 
-            (polyline 
-                (pts 
-                    (xy 2.54 2.54) 
-                    (xy 3.81 2.54) 
-                    (xy 3.81 -2.54) 
-                    (xy 2.54 -2.54)) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (circle 
-                (center 3.81 0) 
-                (radius 0.1778) 
-                (stroke 
-                    (width 0) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type outline)))) 
-        (symbol "PESD1CAN_215_1_1" 
-            (pin passive line 
-                (at -7.62 2.54 0) 
-                (length 2.54) 
-                (name "C1" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27)))) 
-                (number "1" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27))))) 
-            (pin passive line 
-                (at -7.62 -2.54 0) 
-                (length 2.54) 
-                (name "C2" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27)))) 
-                (number "2" 
-                    (effects 
-                        (font 
-                            (size 1.27 1.27))))) 
-            (pin passive line 
-                (at 7.62 0 180) 
-                (length 2.54) 
-                (name "C3" 
                     (effects 
                         (font 
                             (size 1.27 1.27)))) 
