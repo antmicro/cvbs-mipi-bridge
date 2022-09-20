@@ -691,7 +691,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:0402-res" (layer "F.Cu")
+  (footprint "cvbs-mipi-bridge-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 1c013063-6608-494f-b4f1-066f02f0acc2)
     (at 134.48 97.19 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -727,7 +727,7 @@
       (net 7 "/AIN4_ESD") (pintype "passive") (tstamp fc4f58f6-ceed-46f7-a75c-784e1bd849b0))
     (pad "2" smd roundrect locked (at 0.485 0 90) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 99 "/AIN4_C") (pintype "passive") (tstamp d3008fa2-b130-4c81-998e-686bf96ba200))
-    (model "${ANT3DMDL}/0402-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/0402-res.step"
       (offset (xyz 0 0 -0.01))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8750,7 +8750,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:0402-res" (layer "F.Cu")
+  (footprint "cvbs-mipi-bridge-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 67697214-029a-470d-b821-b5ddecab9071)
     (at 129.72 87.87)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -8786,7 +8786,7 @@
       (net 4 "/AIN1_ESD") (pintype "passive") (tstamp c48b15ba-4a03-4562-87bb-9ea6a880c991))
     (pad "2" smd roundrect locked (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 96 "/AIN1_C") (pintype "passive") (tstamp 1f6d9511-2a76-4ba7-8d43-20dc27f3cc8e))
-    (model "${ANT3DMDL}/0402-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/0402-res.step"
       (offset (xyz 0 0 -0.01))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9023,7 +9023,7 @@
       (net 26 "/AGPO1") (pintype "passive") (tstamp fdbad4fc-5f5c-436d-926b-69df17cbffe4))
   )
 
-  (footprint "antmicro-footprints:0402-res" (layer "F.Cu")
+  (footprint "cvbs-mipi-bridge-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 74c0da7b-cc83-42ff-ad66-8a751a02b097)
     (at 129.72 89.28)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -9059,14 +9059,14 @@
       (net 5 "/AIN2_ESD") (pintype "passive") (tstamp 735cc9be-0c2f-4592-9443-15d7a6346268))
     (pad "2" smd roundrect locked (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 97 "/AIN2_C") (pintype "passive") (tstamp 07ff436c-044d-46b2-b4ff-439ab1abe907))
-    (model "${ANT3DMDL}/0402-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/0402-res.step"
       (offset (xyz 0 0 -0.01))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "antmicro-footprints:0402-res" (layer "F.Cu")
+  (footprint "cvbs-mipi-bridge-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 848395f6-2216-4329-b5a5-f3baf8909a57)
     (at 129.87 92.4)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -9102,7 +9102,7 @@
       (net 6 "/AIN3_ESD") (pintype "passive") (tstamp 575d07cf-4435-4907-93b7-3ed0b9bfca3b))
     (pad "2" smd roundrect locked (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 98 "/AIN3_C") (pintype "passive") (tstamp 6b82e513-d7c0-49b2-838e-89f48975bb91))
-    (model "${ANT3DMDL}/0402-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/0402-res.step"
       (offset (xyz 0 0 -0.01))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
