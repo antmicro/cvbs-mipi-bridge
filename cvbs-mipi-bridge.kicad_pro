@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.0,
-          "height": 5.3,
-          "width": 5.3
+          "drill": 0.0,
+          "height": 1.2,
+          "width": 0.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -383,8 +383,12 @@
         "nets": [
           "/CSI_A_CLK_N",
           "/CSI_A_CLK_P",
+          "/CSI_A_CLK_R_N",
+          "/CSI_A_CLK_R_P",
           "/CSI_A_D0_N",
-          "/CSI_A_D0_P"
+          "/CSI_A_D0_P",
+          "/CSI_A_D0_R_N",
+          "/CSI_A_D0_R_P"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -418,7 +422,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.125,
+        "clearance": 0.18,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.125,
@@ -428,21 +432,21 @@
         "name": "75Ohm-se-CVBS",
         "nets": [
           "/AIN1",
+          "/AIN1_C",
           "/AIN1_ESD",
           "/AIN2",
+          "/AIN2_C",
           "/AIN2_ESD",
           "/AIN3",
+          "/AIN3_C",
           "/AIN3_ESD",
           "/AIN4",
-          "/AIN4_ESD",
-          "Net-(C1-Pad1)",
-          "Net-(C10-Pad1)",
-          "Net-(C2-Pad1)",
-          "Net-(C4-Pad1)"
+          "/AIN4_C",
+          "/AIN4_ESD"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.125,
+        "track_width": 0.11,
         "via_diameter": 0.6,
         "via_drill": 0.25,
         "wire_width": 4.921259842519685
