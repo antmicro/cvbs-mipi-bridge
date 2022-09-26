@@ -4422,6 +4422,97 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
+    (symbol "1053131102" 
+        (pin_names 
+            (offset 1.016)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "J" 
+            (id 0) 
+            (at 0 1.27 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)))) 
+        (property "Value" "1053131102" 
+            (id 1) 
+            (at 2.54 3.81 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)))) 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:1053131102" 
+            (id 2) 
+            (at -4.445 -8.255 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "Molex" 
+            (id 4) 
+            (at -1.27 -13.335 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "MPN" "1053131102" 
+            (id 5) 
+            (at -3.175 -11.43 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (symbol "1053131102_1_1" 
+            (rectangle 
+                (start 0 0) 
+                (end 2.54 -5.715) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type background))) 
+            (rectangle 
+                (start 0.635 -3.175) 
+                (end 1.905 -4.445) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (rectangle 
+                (start 0.635 -1.27) 
+                (end 1.905 -2.54) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (pin input line 
+                (at 5.08 -1.905 180) 
+                (length 2.54) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27))))) 
+            (pin input line 
+                (at 5.08 -3.81 180) 
+                (length 2.54) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 1.27 1.27))))))) 
     (symbol "R_22k_0402" 
         (pin_names 
             (offset 0)) 
