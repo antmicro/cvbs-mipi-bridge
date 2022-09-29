@@ -5,9 +5,11 @@
   (paper "A3")
 
   (title_block
-    (title "ModADV7282-M")
-    (rev "1.2.0")
-    (company "Antmicro Ltd.")
+    (title "CVBS-MIPI Bridge")
+    (date "2022-09-29")
+    (rev "1.0.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
   )
 
   (lib_symbols
