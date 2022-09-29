@@ -22,11 +22,11 @@ The remaining files are stored in the following directories:
 
 * Analog Devices ADV7282-M CVBS-to-MIPI video converter
 * 6 analog video input channels exposed on RCA connectors
-* Single 1-lane MIPI CSI-2 digital output interface
+* A single 1-lane MIPI CSI-2 digital output interface
 
 Please note that according to the datasheet the ADV7282-M includes an embedded anlog multiplexer and processes only one analog input channel at a time.
 
-This video accessory is electrically compatible with several video processing platforms created by Antmicro such as:
+This video accessory is electrically compatible with several video processing platforms created by Antmicro, such as:
  
 * [Jetson Nano Baseboard](https://github.com/antmicro/jetson-nano-baseboard) supporting NVIDIA Jetson Nano, Jetson Xavier NX, Jetson TX2 NX
 * [Google Coral Baseboard](https://github.com/antmicro/google-coral-baseboard)
