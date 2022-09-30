@@ -24,7 +24,7 @@ The remaining files are stored in the following directories:
 * 6 analog video input channels exposed on RCA connectors
 * A single 1-lane MIPI CSI-2 digital output interface
 
-Please note that according to the datasheet the ADV7282-M includes an embedded anlog multiplexer and processes only one analog input channel at a time.
+Please note that according to the datasheet the ADV7282-M includes an embedded analog multiplexer and processes only one analog input channel at a time.
 
 This video accessory is electrically compatible with several video processing platforms created by Antmicro, such as:
  
