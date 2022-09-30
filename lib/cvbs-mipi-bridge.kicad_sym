@@ -1307,6 +1307,100 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
+    (symbol "C_10u_0603" 
+        (pin_names 
+            (offset 0)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "C" 
+            (id 0) 
+            (at -1.397 3.429 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "C_10u_0603" 
+            (id 1) 
+            (at 0 -3.81 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:0603-cap" 
+            (id 2) 
+            (at 5.08 5.08 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "Murata" 
+            (id 4) 
+            (at 5.08 10.16 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "GRM188R61A106KE69D" 
+            (id 5) 
+            (at 5.08 7.62 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "10u" 
+            (id 6) 
+            (at 0 -2.54 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)))) 
+        (symbol "C_10u_0603_1_1" 
+            (polyline 
+                (pts 
+                    (xy -2.032 -0.762) 
+                    (xy 2.032 -0.762)) 
+                (stroke 
+                    (width 0.508) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -2.032 0.762) 
+                    (xy 2.032 0.762)) 
+                (stroke 
+                    (width 0.508) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (pin passive line 
+                (at 0 3.81 270) 
+                (length 2.794) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 0 0))))) 
+            (pin passive line 
+                (at 0 -3.81 90) 
+                (length 2.794) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 0 0))))))) 
     (symbol "R_0R_0402" 
         (pin_names 
             (offset 0)) 
@@ -1726,6 +1820,432 @@
                 (effects 
                     (font 
                         (size 2.0066 2.0066)))))) 
+    (symbol "ADV7282-M" 
+        (pin_names 
+            (offset 0.254)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "U" 
+            (id 0) 
+            (at 0 33.02 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Value" "ADV7282-M" 
+            (id 1) 
+            (at 0 30.48 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Footprint" "cvbs-mipi-bridge-footprints:LFCSP-32-1EP-5x5mm" 
+            (id 2) 
+            (at 3.81 -30.48 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Datasheet" "https://eu.mouser.com/datasheet/2/609/ADV7282-2955931.pdf" 
+            (id 3) 
+            (at 15.24 -33.02 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Manufacturer" "Analog Devices" 
+            (id 4) 
+            (at 1.27 -35.56 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "MPN" "ADV7282WBCPZ-M" 
+            (id 5) 
+            (at 1.27 -38.1 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "ki_description" "10-bit, 8-channel, 4x Oversampled SDTV Video Decoder w Diff Inputs and Deinterlacer" 
+            (id 6) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "ki_fp_filters" "CP_32_12_ADI CP_32_12_ADI-M CP_32_12_ADI-L" 
+            (id 7) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (symbol "ADV7282-M_1_1" 
+            (rectangle 
+                (start -22.86 27.94) 
+                (end 22.86 -27.94) 
+                (stroke 
+                    (width 0) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type background))) 
+            (pin power_in line 
+                (at 30.48 -25.4 180) 
+                (length 7.62) 
+                (name "DGND" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 12.7 180) 
+                (length 7.62) 
+                (name "D0_N" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "10" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 10.16 180) 
+                (length 7.62) 
+                (name "CLK_P" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "11" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 7.62 180) 
+                (length 7.62) 
+                (name "CLK_N" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "12" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin power_in line 
+                (at -30.48 20.32 0) 
+                (length 7.62) 
+                (name "MVDD" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "13" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 -2.54 180) 
+                (length 7.62) 
+                (name "XTALP" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "14" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at 30.48 -5.08 180) 
+                (length 7.62) 
+                (name "XTALN" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "15" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin power_in line 
+                (at -30.48 17.78 0) 
+                (length 7.62) 
+                (name "PVDD" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "16" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 10.16 0) 
+                (length 7.62) 
+                (name "AIN1" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "17" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 7.62 0) 
+                (length 7.62) 
+                (name "AIN2" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "18" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 -12.7 180) 
+                (length 7.62) 
+                (name "VREFP" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "19" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin power_in line 
+                (at -30.48 25.4 0) 
+                (length 7.62) 
+                (name "DVDDIO" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 -15.24 180) 
+                (length 7.62) 
+                (name "VREFN" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "20" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin power_in line 
+                (at -30.48 15.24 0) 
+                (length 7.62) 
+                (name "AVDD" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "21" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 5.08 0) 
+                (length 7.62) 
+                (name "DIAG1" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "22" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 2.54 0) 
+                (length 7.62) 
+                (name "AIN3" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "23" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 0 0) 
+                (length 7.62) 
+                (name "AIN4" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "24" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -2.54 0) 
+                (length 7.62) 
+                (name "DIAG2" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "25" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -5.08 0) 
+                (length 7.62) 
+                (name "AIN5" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "26" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -7.62 0) 
+                (length 7.62) 
+                (name "AIN6" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "27" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -20.32 0) 
+                (length 7.62) 
+                (name "~{RESET}" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "28" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -22.86 0) 
+                (length 7.62) 
+                (name "ALSB" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "29" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin power_in line 
+                (at -30.48 22.86 0) 
+                (length 7.62) 
+                (name "DVDD" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "3" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin bidirectional line 
+                (at -30.48 -12.7 0) 
+                (length 7.62) 
+                (name "SDATA" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "30" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at -30.48 -15.24 0) 
+                (length 7.62) 
+                (name "SCLK" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "31" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin input line 
+                (at -30.48 -25.4 0) 
+                (length 7.62) 
+                (name "~{PWRDWN}" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "32" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin unspecified line 
+                (at 30.48 -22.86 180) 
+                (length 7.62) 
+                (name "EP" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "33" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin unspecified line 
+                (at 30.48 -25.4 180) 
+                (length 7.62) 
+                (name "DGND" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "4" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 -17.78 180) 
+                (length 7.62) 
+                (name "~{INTRQ}" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "5" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin bidirectional line 
+                (at 30.48 20.32 180) 
+                (length 7.62) 
+                (name "GPO2" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "6" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin bidirectional line 
+                (at 30.48 22.86 180) 
+                (length 7.62) 
+                (name "GPO1" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "7" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin bidirectional line 
+                (at 30.48 25.4 180) 
+                (length 7.62) 
+                (name "GPO0" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "8" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))) 
+            (pin output line 
+                (at 30.48 15.24 180) 
+                (length 7.62) 
+                (name "D0_P" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986)))) 
+                (number "9" 
+                    (effects 
+                        (font 
+                            (size 1.4986 1.4986))))))) 
     (symbol "R_100k_0402" 
         (pin_names 
             (offset 0)) 
@@ -2589,463 +3109,6 @@
                 (effects 
                     (font 
                         (size 2.0066 2.0066)))))) 
-    (symbol "ADV7280BCPZ-M" 
-        (pin_names 
-            (offset 0.254)) 
-        (in_bom yes) 
-        (on_board yes) 
-        (property "Reference" "U" 
-            (id 0) 
-            (at 0 33.02 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)))) 
-        (property "Value" "ADV7280BCPZ-M" 
-            (id 1) 
-            (at 0 30.48 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)))) 
-        (property "Footprint" "cvbs-mipi-bridge-footprints:LFCSP-32-1EP-5x5mm" 
-            (id 2) 
-            (at 3.81 -30.48 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)))) 
-        (property "Datasheet" "https://www.mouser.pl/datasheet/2/609/ADV7280-2488676.pdf" 
-            (id 3) 
-            (at 15.24 -33.02 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)))) 
-        (property "Manufacturer" "Analog Devices" 
-            (id 4) 
-            (at 1.27 -35.56 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)))) 
-        (property "MPN" "ADV7280BCPZ" 
-            (id 5) 
-            (at 1.27 -38.1 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)))) 
-        (property "ki_description" "10-bit, 8-channel, 4x Oversampled SDTV Video Decoder" 
-            (id 6) 
-            (at 0 0 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) hide)) 
-        (property "ki_fp_filters" "CP_32_12_ADI CP_32_12_ADI-M CP_32_12_ADI-L" 
-            (id 7) 
-            (at 0 0 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) hide)) 
-        (symbol "ADV7280BCPZ-M_1_1" 
-            (polyline 
-                (pts 
-                    (xy -22.86 -27.94) 
-                    (xy 22.86 -27.94)) 
-                (stroke 
-                    (width 0.127) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -22.86 27.94) 
-                    (xy -22.86 -27.94)) 
-                (stroke 
-                    (width 0.127) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 22.86 -27.94) 
-                    (xy 22.86 27.94)) 
-                (stroke 
-                    (width 0.127) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy 22.86 27.94) 
-                    (xy -22.86 27.94)) 
-                (stroke 
-                    (width 0.127) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (pin unspecified line 
-                (at 30.48 -25.4 180) 
-                (length 7.62) 
-                (name "DGND" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "1" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 12.7 180) 
-                (length 7.62) 
-                (name "D0_N" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "10" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 10.16 180) 
-                (length 7.62) 
-                (name "CLK_P" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "11" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 7.62 180) 
-                (length 7.62) 
-                (name "CLK_N" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "12" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 20.32 0) 
-                (length 7.62) 
-                (name "MVDD" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "13" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -2.54 180) 
-                (length 7.62) 
-                (name "XTALP" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "14" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -5.08 180) 
-                (length 7.62) 
-                (name "XTALN" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "15" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 17.78 0) 
-                (length 7.62) 
-                (name "PVDD" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "16" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 10.16 0) 
-                (length 7.62) 
-                (name "AIN1" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "17" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 7.62 0) 
-                (length 7.62) 
-                (name "AIN2" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "18" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -12.7 180) 
-                (length 7.62) 
-                (name "VREFP" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "19" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 25.4 0) 
-                (length 7.62) 
-                (name "DVDDIO" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "2" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -15.24 180) 
-                (length 7.62) 
-                (name "VREFN" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "20" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 15.24 0) 
-                (length 7.62) 
-                (name "AVDD" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "21" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 5.08 0) 
-                (length 7.62) 
-                (name "AIN3" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "22" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 2.54 0) 
-                (length 7.62) 
-                (name "AIN4" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "23" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 0 0) 
-                (length 7.62) 
-                (name "AIN5" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "24" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -2.54 0) 
-                (length 7.62) 
-                (name "AIN6" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "25" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -5.08 0) 
-                (length 7.62) 
-                (name "AIN7" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "26" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -7.62 0) 
-                (length 7.62) 
-                (name "AIN8" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "27" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -20.32 0) 
-                (length 7.62) 
-                (name "~{RESET}" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "28" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -22.86 0) 
-                (length 7.62) 
-                (name "ALSB" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "29" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 22.86 0) 
-                (length 7.62) 
-                (name "DVDD" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "3" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -12.7 0) 
-                (length 7.62) 
-                (name "SDATA" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "30" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -15.24 0) 
-                (length 7.62) 
-                (name "SCLK" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "31" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at -30.48 -25.4 0) 
-                (length 7.62) 
-                (name "~{PWRDWN}" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "32" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -22.86 180) 
-                (length 7.62) 
-                (name "EP" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "33" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -25.4 180) 
-                (length 7.62) 
-                (name "DGND" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "4" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 -17.78 180) 
-                (length 7.62) 
-                (name "~{INTRQ}" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "5" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 20.32 180) 
-                (length 7.62) 
-                (name "GPO2" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "6" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 22.86 180) 
-                (length 7.62) 
-                (name "GPO1" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "7" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 25.4 180) 
-                (length 7.62) 
-                (name "GPO0" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "8" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))) 
-            (pin unspecified line 
-                (at 30.48 15.24 180) 
-                (length 7.62) 
-                (name "D0_P" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986)))) 
-                (number "9" 
-                    (effects 
-                        (font 
-                            (size 1.4986 1.4986))))))) 
     (symbol "R_0R_0805" 
         (pin_names 
             (offset 0)) 
