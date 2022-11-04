@@ -7,7 +7,10 @@
   (paper "A4")
   (title_block
     (title "CVBS-MIPI Bridge")
-    (rev "1.0.0")
+    (date "2022-11-04")
+    (rev "1.0.1")
+    (company "Antmicro Ltd.")
+    (comment 1 "www.antmicro.com")
   )
 
   (layers
@@ -10776,7 +10779,7 @@
   (gr_text "3V3" (at 165.2 68.075 90) (layer "F.SilkS") (tstamp fe071692-11b2-4741-a91a-4e4f72687eca)
     (effects (font (size 0.65 0.65) (thickness 0.15)) (justify left))
   )
-  (gr_text "${TITLE}\nRev. ${REVISION}   09/2022" (at 159.2 118.09 90) (layer "F.Mask") (tstamp 4dcfdc06-df69-4f49-a0c5-870f2a3e1195)
+  (gr_text "${TITLE}\nRev. ${REVISION}   11/2022" (at 159.2 118.09 90) (layer "F.Mask") (tstamp 4dcfdc06-df69-4f49-a0c5-870f2a3e1195)
     (effects (font (size 0.65 0.65) (thickness 0.15)) (justify left))
   )
   (gr_text "" (at 223.2 75.88469) (layer "Dwgs.User") (tstamp 01e3b066-baf8-4bfb-9194-9e01931bff85)
