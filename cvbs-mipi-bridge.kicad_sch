@@ -8394,7 +8394,7 @@
     (uuid 92f32a92-cb6b-49a2-8b2f-5a32a11f1e39)
     (property "Reference" "S1" (id 0) (at 144.145 270.7624 0))
     (property "Value" "KMR2" (id 1) (at 144.145 273.2993 0))
-    (property "Footprint" "cvbs-mipi-bridge-footprints:SW_SPST_4.2x2.8" (id 2) (at 149.225 260.985 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:SW_SPST_4.2x2.8_ThermalReliefs_ZoneSizeSettings" (id 2) (at 149.225 260.985 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.farnell.com/datasheets/2631211.pdf" (id 3) (at 149.225 258.445 0)
@@ -10768,7 +10768,7 @@
       (reference "R31") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/92f32a92-cb6b-49a2-8b2f-5a32a11f1e39"
-      (reference "S1") (unit 1) (value "KMR2") (footprint "cvbs-mipi-bridge-footprints:SW_SPST_4.2x2.8")
+      (reference "S1") (unit 1) (value "KMR2") (footprint "cvbs-mipi-bridge-footprints:SW_SPST_4.2x2.8_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/d8b187c7-eb16-45c2-989e-6dd1f61dcd76"
       (reference "TP1") (unit 1) (value "TP") (footprint "cvbs-mipi-bridge-footprints:TP-R-1.5")
