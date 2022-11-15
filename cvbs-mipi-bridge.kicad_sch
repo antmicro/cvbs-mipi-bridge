@@ -6499,7 +6499,7 @@
     (property "Value" "C_100n_0402" (id 1) (at 178.435 272.415 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 183.515 263.525 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 183.515 263.525 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 178.435 268.605 0)
@@ -6756,7 +6756,7 @@
     (property "Value" "C_100n_0402" (id 1) (at 138.43 234.315 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 143.51 225.425 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 143.51 225.425 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 138.43 230.505 0)
@@ -7238,7 +7238,7 @@
     (property "Value" "C_100n_0402" (id 1) (at 156.21 272.415 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 161.29 263.525 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 161.29 263.525 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 156.21 268.605 0)
@@ -8716,7 +8716,7 @@
     (property "Value" "C_1u_0402" (id 1) (at 167.64 272.415 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 172.72 263.525 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 172.72 263.525 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 167.64 268.605 0)
@@ -8744,7 +8744,7 @@
     (property "Value" "C_1u_0402" (id 1) (at 151.765 234.315 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 156.845 225.425 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 156.845 225.425 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 151.765 230.505 0)
@@ -9656,7 +9656,7 @@
     (property "Value" "C_100n_0402" (id 1) (at 160.655 234.315 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap" (id 2) (at 165.735 225.425 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings" (id 2) (at 165.735 225.425 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 160.655 230.505 0)
@@ -10074,7 +10074,7 @@
     (property "Value" "R_100k_0402" (id 1) (at 121.285 257.175 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res" (id 2) (at 112.395 252.095 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings" (id 2) (at 112.395 252.095 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 117.475 257.175 0)
@@ -10516,7 +10516,7 @@
       (reference "C12") (unit 1) (value "C_1u_0603") (footprint "cvbs-mipi-bridge-footprints:0603-cap")
     )
     (path "/1bee2d5b-6bc8-4cce-a6e3-1f3bf9745bb9"
-      (reference "C13") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C13") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/a6cf3c89-c358-4fe5-8c48-55a885e26635"
       (reference "C14") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
@@ -10537,10 +10537,10 @@
       (reference "C19") (unit 1) (value "C_10n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
     )
     (path "/d9a4ccc3-9031-42be-9255-f7e52bdbb0e2"
-      (reference "C20") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C20") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/3fc12d68-fcb6-48b6-8065-f1ad670bea04"
-      (reference "C21") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C21") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/b27a027d-42b4-40c4-8859-9d82b6860bf7"
       (reference "C22") (unit 1) (value "C_10p_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
@@ -10549,7 +10549,7 @@
       (reference "C23") (unit 1) (value "C_10p_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
     )
     (path "/09a3076f-3165-4f6a-9373-edde30364cee"
-      (reference "C24") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C24") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/a1f98d0c-4255-4671-b54f-e111015a429f"
       (reference "C25") (unit 1) (value "C_1u_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
@@ -10558,10 +10558,10 @@
       (reference "C26") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
     )
     (path "/a9ff00fd-c74f-4da8-8c76-a9035957e9cf"
-      (reference "C27") (unit 1) (value "C_1u_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C27") (unit 1) (value "C_1u_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/a906aa26-a996-49f0-ad55-0360891fb415"
-      (reference "C28") (unit 1) (value "C_1u_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
+      (reference "C28") (unit 1) (value "C_1u_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/c13c5692-c189-4d8d-8200-667b0d08dcd1"
       (reference "C29") (unit 1) (value "C_100n_0402") (footprint "cvbs-mipi-bridge-footprints:0402-cap")
@@ -10753,7 +10753,7 @@
       (reference "R26") (unit 1) (value "R_470R_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
     )
     (path "/f25932ef-461a-431a-b3df-e3ea8576a101"
-      (reference "R27") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
+      (reference "R27") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/adf25e91-eb6c-4a50-a77b-bc415cbc1747"
       (reference "R28") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
