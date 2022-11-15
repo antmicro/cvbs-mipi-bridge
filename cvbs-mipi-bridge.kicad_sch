@@ -7033,7 +7033,7 @@
     (property "Value" "KP-1608ZGC" (id 1) (at 280.9875 82.0943 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:LED_0603" (id 2) (at 287.02 81.915 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:LED_0603_ThermalReliefs_ZoneSizeSettings" (id 2) (at 287.02 81.915 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "https://www.farnell.com/datasheets/1854072.pdf" (id 3) (at 287.02 79.375 0)
@@ -7695,7 +7695,7 @@
     (property "Value" "R_100k_0402" (id 1) (at 283.21 184.15 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res" (id 2) (at 274.32 179.07 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings" (id 2) (at 274.32 179.07 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 279.4 184.15 0)
@@ -8798,7 +8798,7 @@
     (property "Value" "R_100k_0402" (id 1) (at 281.94 116.205 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res" (id 2) (at 273.05 111.125 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings" (id 2) (at 273.05 111.125 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 278.13 116.205 0)
@@ -9970,7 +9970,7 @@
     (property "Value" "R_100k_0402" (id 1) (at 283.21 149.86 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res" (id 2) (at 274.32 144.78 0)
+    (property "Footprint" "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings" (id 2) (at 274.32 144.78 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 279.4 149.86 0)
@@ -10591,7 +10591,7 @@
       (reference "D5") (unit 1) (value "KP-1608ZGC") (footprint "cvbs-mipi-bridge-footprints:LED_0603")
     )
     (path "/2af4b8f3-a25a-42d6-8e33-10ad30cedb7d"
-      (reference "D6") (unit 1) (value "KP-1608ZGC") (footprint "cvbs-mipi-bridge-footprints:LED_0603")
+      (reference "D6") (unit 1) (value "KP-1608ZGC") (footprint "cvbs-mipi-bridge-footprints:LED_0603_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/8d41ee61-0762-40d7-8a2e-731d8b152c1e"
       (reference "D7") (unit 1) (value "KP-1608ZGC") (footprint "cvbs-mipi-bridge-footprints:LED_0603")
@@ -10756,16 +10756,16 @@
       (reference "R27") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/adf25e91-eb6c-4a50-a77b-bc415cbc1747"
-      (reference "R28") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
+      (reference "R28") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/ecbfa56e-5f93-4890-b537-cf11490dabb3"
-      (reference "R29") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
+      (reference "R29") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/a2042ad6-c037-4bf6-86fd-f7cc9c142ea2"
       (reference "R30") (unit 1) (value "R_0R_0805") (footprint "cvbs-mipi-bridge-footprints:0805-res")
     )
     (path "/61c0936f-710e-41ac-8508-01af59b77b09"
-      (reference "R31") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res")
+      (reference "R31") (unit 1) (value "R_100k_0402") (footprint "cvbs-mipi-bridge-footprints:0402-res_ThermalReliefs_ZoneSizeSettings")
     )
     (path "/92f32a92-cb6b-49a2-8b2f-5a32a11f1e39"
       (reference "S1") (unit 1) (value "KMR2") (footprint "cvbs-mipi-bridge-footprints:SW_SPST_4.2x2.8")
