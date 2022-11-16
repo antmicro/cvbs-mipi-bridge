@@ -2439,7 +2439,7 @@
       (property "Value" "antmicro_logo" (id 1) (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "cvbs-mipi-bridge-footprints:antmicro-logo" (id 2) (at -2.54 6.35 0)
+      (property "Footprint" "antmicro-footprints:antmicro-logo_scaled_20mm_mask" (id 2) (at -2.54 6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 8.89 0)
@@ -7588,7 +7588,7 @@
     (property "Value" "antmicro_logo" (id 1) (at 335.7659 222.6822 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:antmicro-logo_scaled_20mm" (id 2) (at 327.66 215.9 0)
+    (property "Footprint" "antmicro-footprints:antmicro-logo_scaled_20mm_mask" (id 2) (at 327.66 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 330.2 213.36 0)
@@ -10681,7 +10681,7 @@
       (reference "MP4") (unit 1) (value "9774030243R") (footprint "cvbs-mipi-bridge-footprints:9774030243R")
     )
     (path "/5b977b58-464e-4090-a8fb-1bcc0b8a8b9f"
-      (reference "N1") (unit 1) (value "antmicro_logo") (footprint "cvbs-mipi-bridge-footprints:antmicro-logo_scaled_20mm")
+      (reference "N1") (unit 1) (value "antmicro_logo") (footprint "antmicro-footprints:antmicro-logo_scaled_20mm_mask")
     )
     (path "/9c3425c8-70b0-4ca4-85e3-ed15ae63aac3"
       (reference "N2") (unit 1) (value "oshw_logo") (footprint "cvbs-mipi-bridge-footprints:oshw-logo")

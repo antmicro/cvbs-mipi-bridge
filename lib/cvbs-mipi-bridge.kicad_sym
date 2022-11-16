@@ -2288,7 +2288,7 @@
     (property "Value" "antmicro_logo" (id 1) (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "cvbs-mipi-bridge-footprints:antmicro-logo" (id 2) (at -2.54 6.35 0)
+    (property "Footprint" "antmicro-footprints:antmicro-logo_scaled_20mm_mask" (id 2) (at -2.54 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 8.89 0)
