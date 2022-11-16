@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "CVBS-MIPI Bridge")
-    (date "2022-11-04")
-    (rev "1.0.1")
+    (date "2022-11-16")
+    (rev "1.0.2")
     (company "Antmicro Ltd.")
     (comment 1 "www.antmicro.com")
   )
