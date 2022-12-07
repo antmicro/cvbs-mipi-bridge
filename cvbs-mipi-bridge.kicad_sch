@@ -6,8 +6,8 @@
 
   (title_block
     (title "CVBS-MIPI Bridge")
-    (date "2022-11-16")
-    (rev "1.0.2")
+    (date "2022-12-07")
+    (rev "1.1.0")
     (company "Antmicro Ltd.")
     (comment 1 "www.antmicro.com")
   )
