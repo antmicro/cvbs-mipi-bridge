@@ -2,6 +2,8 @@
 
 Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
+[![DDR4 RDIMM tester board @ opensource.antmicro.com](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Source%20Portal-332d37?style=flat-square)](https://opensource.antmicro.com/projects/cvbs-mipi-bridge)
+
 ![Baseboard visualization](img/cvbs-mipi-bridge-black.png)
 
 ## Overview
