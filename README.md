@@ -2,7 +2,7 @@
 
 Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
-![Baseboard visualization](img/cvbs-mipi-bridge.png)
+![Baseboard visualization](img/cvbs-mipi-bridge-black.png)
 
 ## Overview
 
