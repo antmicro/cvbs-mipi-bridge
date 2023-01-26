@@ -23,7 +23,7 @@ The remaining files are stored in the following directories:
 ## Key Features
 
 * Analog Devices ADV7282-M CVBS-to-MIPI video converter
-* 6 analog video input channels exposed on RCA connectors
+* 4 analog video input channels exposed on RCA connectors
 * A single 1-lane MIPI CSI-2 digital output interface
 
 Please note that according to the datasheet the ADV7282-M includes an embedded analog multiplexer and processes only one analog input channel at a time.
@@ -37,6 +37,10 @@ This video accessory is electrically compatible with several video processing pl
 * [AMD-Xilinx Kria K26 DevBoard](https://github.com/antmicro/kria-k26-devboard)
 
 It can also be used with NVIDIA AGX Xavier and NVIDIA AGX Orin with a dedicated [adapter](https://github.com/antmicro/jetson-agx-csi-adapter).
+
+## Board diagram
+
+![Diagram](doc/cvbs-mipi-bridge-diagram.png)
 
 ## License
 
