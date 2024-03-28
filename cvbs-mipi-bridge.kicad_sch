@@ -189,6 +189,7 @@
         )
       )
     )
+
     (symbol "BSS138PW_2" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 3.81 -6.35 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -365,6 +366,7 @@
         )
       )
     )
+
     (symbol "BSS138PW_3" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 3.81 -6.35 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -541,6 +543,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_1" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -580,6 +583,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_10" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -619,6 +623,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_11" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -658,6 +663,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_12" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -697,6 +703,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_13" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -736,6 +743,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_14" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -775,6 +783,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_15" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -814,6 +823,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_2" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -853,6 +863,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_3" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -892,6 +903,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_4" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -931,6 +943,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_5" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -970,6 +983,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_6" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1009,6 +1023,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_7" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1048,6 +1063,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_8" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1087,6 +1103,7 @@
         )
       )
     )
+
     (symbol "TP_1.5mm_SMD_9" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1126,6 +1143,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:ADV7282-M" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 71.12 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1299,6 +1317,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:BSS138PW" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 3.81 -6.35 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1475,6 +1494,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1541,6 +1561,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_10n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1607,6 +1628,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_10p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1673,6 +1695,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_10u_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1739,6 +1762,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_1u_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1805,6 +1829,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:C_1u_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1871,6 +1896,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:Conn_FFC_WE_68715014522" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 19.05 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2320,6 +2346,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:FB_220Z_1.5A_WE-CBF_0805" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2397,6 +2424,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -2431,6 +2459,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:LED_G_0603_KP-1608ZGC" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2512,6 +2541,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:Molex_Nano-Fit_1x2_1053131102" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 13.335 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2566,6 +2596,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -2600,6 +2631,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:PinHeader_1x2_P2.54mm_Drill1.1mm" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2654,6 +2686,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:RCA_Jack_KLPX-0848A-2-Y" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 11.43 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2746,6 +2779,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2800,6 +2834,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_0R_0805" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2854,6 +2889,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_100k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2905,6 +2941,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_1M_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2956,6 +2993,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_1k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3007,6 +3045,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_22k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3058,6 +3097,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_24R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3109,6 +3149,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_470R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3160,6 +3201,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_4k7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3211,6 +3253,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:R_51R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3262,6 +3305,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:Resonator_28.63636MHz_ABM8G" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3355,6 +3399,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:SN74AUP1G17_SC70" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 33.02 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3468,6 +3513,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:SW_KMR211NGLFS_SMD" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 25.4 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3606,6 +3652,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:Spacer_Drill3mm_H3mm_9774030243R" (in_bom yes) (on_board yes)
       (property "Reference" "H" (at 22.86 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3652,6 +3699,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TLV70018_SC70" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 35.56 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3707,6 +3755,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3746,6 +3795,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_10" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3779,6 +3829,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_11" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3812,6 +3863,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_12" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3845,6 +3897,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_13" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3878,6 +3931,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_14" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3911,6 +3965,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:TP_1.5mm_SMD_15" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -3944,6 +3999,7 @@
         )
       )
     )
+
     (symbol "cvbs-mipi-bridge:UCLAMP2501T.TCT" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 13.97 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4483,7 +4539,6 @@
     (stroke (width 0) (type default))
     (uuid 2b3c06f2-1268-42bb-b850-5ce21e12dd82)
   )
-
   (wire (pts (xy 113.03 36.83) (xy 109.22 36.83))
     (stroke (width 0) (type default))
     (uuid 2c098003-6c72-457a-aaa5-b5c515acb739)
@@ -4672,7 +4727,6 @@
     (stroke (width 0) (type default))
     (uuid 4fefb759-5daa-4463-871c-408d87592f66)
   )
-
   (wire (pts (xy 344.17 135.89) (xy 358.14 135.89))
     (stroke (width 0) (type default))
     (uuid 51ef6047-63bb-4735-9612-4555894db2dc)
@@ -4913,7 +4967,6 @@
     (stroke (width 0) (type solid))
     (uuid 843461f5-1d7e-4a65-942d-3dab2f136b06)
   )
-
   (wire (pts (xy 278.13 144.78) (xy 280.67 144.78))
     (stroke (width 0) (type default))
     (uuid 84900473-44b3-46c2-adb7-2535a2e24507)
@@ -4958,7 +5011,6 @@
     (stroke (width 0) (type default))
     (uuid 8c1f9bde-5878-4f14-842c-6e15c27a92e0)
   )
-
   (wire (pts (xy 193.04 107.95) (xy 218.44 107.95))
     (stroke (width 0) (type default))
     (uuid 8c999127-0573-48dd-8a0d-17f9bbac9002)
@@ -5531,7 +5583,6 @@
     (stroke (width 0) (type default))
     (uuid fc49c4c4-4ee8-4233-ada6-3cd17dd1bb4b)
   )
-
   (wire (pts (xy 344.17 138.43) (xy 355.6 138.43))
     (stroke (width 0) (type default))
     (uuid fd446a91-079a-404d-a854-af3f41c6aa6c)
@@ -5540,7 +5591,6 @@
     (stroke (width 0) (type default))
     (uuid fd4669e7-3a72-44b4-9cb8-b8d34817c9c0)
   )
-
   (wire (pts (xy 368.3 140.97) (xy 358.14 140.97))
     (stroke (width 0) (type default))
     (uuid feaab785-a368-45b3-a1b0-8e5c6cc0b7d0)
@@ -9077,7 +9127,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:R_4k7_0402") (at 121.92 127 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2a0bb34b-9574-471e-9c54-fae8c232371b)
     (property "Reference" "R7" (at 123.19 123.19 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -9403,7 +9453,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:R_0R_0402") (at 368.3 135.89 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 3b0e901a-13c2-42fb-8a20-acef23b868f6)
     (property "Reference" "R20" (at 366.395 134.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11345,7 +11395,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:C_10u_0603") (at 43.18 41.91 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 8d5410b0-f6eb-497d-8342-450826212754)
     (property "Reference" "C30" (at 45.72 41.9162 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -11860,7 +11910,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:C_1u_0402") (at 54.61 41.91 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid a1f98d0c-4255-4671-b54f-e111015a429f)
     (property "Reference" "C25" (at 57.15 41.9162 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -12760,7 +12810,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:C_100n_0402") (at 64.77 41.91 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid c13c5692-c189-4d8d-8200-667b0d08dcd1)
     (property "Reference" "C29" (at 67.945 41.9162 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -13322,7 +13372,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:Molex_Nano-Fit_1x2_1053131102") (at 34.29 40.64 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid d367e08c-f55e-437f-b4d6-c27a7b7877e6)
     (property "Reference" "J2" (at 30.48 31.75 0)
       (effects (font (size 1.27 1.27)))
@@ -13432,7 +13482,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:R_4k7_0402") (at 119.38 127 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d8419637-e495-4c93-a62a-7f65c043e465)
     (property "Reference" "R6" (at 114.935 123.19 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -13563,7 +13613,7 @@
   )
 
   (symbol (lib_id "cvbs-mipi-bridge:R_0R_0402") (at 368.3 138.43 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d99c9080-51ce-4882-bd14-e642c57818f5)
     (property "Reference" "R21" (at 366.395 137.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
