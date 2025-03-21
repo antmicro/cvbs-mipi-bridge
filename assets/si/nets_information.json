@@ -1,0 +1,312 @@
+{
+  "nets": [
+    {
+      "name": "/AIN4_ESD",
+      "length": "26.817",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN4_ESD/Z_1.png"
+        ],
+        "smith": [
+          "./AIN4_ESD/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN4_ESD/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN4_ESD/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN4_ESD/top_view.png"
+    },
+    {
+      "name": [
+        "/CSI_A_CLK_P",
+        "/CSI_A_CLK_N"
+      ],
+      "length": [
+        "18.980",
+        "18.980"
+      ],
+      "width": [
+        "0.182",
+        "0.182"
+      ],
+      "impedance": 50.0,
+      "diff": true,
+      "charts": {
+        "impedance": [
+          "./CSI_A_CLK_Diff/Z_1.png",
+          "./CSI_A_CLK_Diff/Z_3.png"
+        ],
+        "smith": [
+          "./CSI_A_CLK_Diff/S_11_smith.png",
+          "./CSI_A_CLK_Diff/S_33_smith.png"
+        ],
+        "s-param": [
+          "./CSI_A_CLK_Diff/S_x1.png",
+          "./CSI_A_CLK_Diff/S_x3.png"
+        ],
+        "diff_delay": [
+          "./CSI_A_CLK_Diff/diff_delay.png"
+        ],
+        "diff_impedance": [
+          "./CSI_A_CLK_Diff/Z_diff.png"
+        ],
+        "diff_s-param": [
+          "./CSI_A_CLK_Diff/SDD_Diff.png"
+        ],
+        "s-param_and_smith": [
+          "./CSI_A_CLK_Diff/s_param_and_smith_1.png",
+          "./CSI_A_CLK_Diff/s_param_and_smith_3.png"
+        ]
+      },
+      "image": "./CSI_A_CLK_Diff/top_view.png"
+    },
+    {
+      "name": "Net-(J1-Pad39)",
+      "length": "11.348",
+      "width": "0.182",
+      "impedance": 50.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./Net-J1-Pad39/Z_1.png"
+        ],
+        "smith": [
+          "./Net-J1-Pad39/S_11_smith.png"
+        ],
+        "s-param": [
+          "./Net-J1-Pad39/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./Net-J1-Pad39/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./Net-J1-Pad39/top_view.png"
+    },
+    {
+      "name": "/AIN2",
+      "length": "2.583",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN2/Z_1.png"
+        ],
+        "smith": [
+          "./AIN2/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN2/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN2/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN2/top_view.png"
+    },
+    {
+      "name": "/AIN4",
+      "length": "1.866",
+      "width": "0.125",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN4/Z_1.png"
+        ],
+        "smith": [
+          "./AIN4/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN4/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN4/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN4/top_view.png"
+    },
+    {
+      "name": "/AIN1_ESD",
+      "length": "24.474",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN1_ESD/Z_1.png"
+        ],
+        "smith": [
+          "./AIN1_ESD/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN1_ESD/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN1_ESD/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN1_ESD/top_view.png"
+    },
+    {
+      "name": "/AIN1",
+      "length": "3.129",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN1/Z_1.png"
+        ],
+        "smith": [
+          "./AIN1/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN1/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN1/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN1/top_view.png"
+    },
+    {
+      "name": "/AIN3_ESD",
+      "length": "12.546",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN3_ESD/Z_1.png"
+        ],
+        "smith": [
+          "./AIN3_ESD/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN3_ESD/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN3_ESD/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN3_ESD/top_view.png"
+    },
+    {
+      "name": "/AIN2_ESD",
+      "length": "12.527",
+      "width": "0.150",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN2_ESD/Z_1.png"
+        ],
+        "smith": [
+          "./AIN2_ESD/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN2_ESD/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN2_ESD/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN2_ESD/top_view.png"
+    },
+    {
+      "name": "/AIN3",
+      "length": "2.689",
+      "width": "0.125",
+      "impedance": 75.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./AIN3/Z_1.png"
+        ],
+        "smith": [
+          "./AIN3/S_11_smith.png"
+        ],
+        "s-param": [
+          "./AIN3/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./AIN3/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./AIN3/top_view.png"
+    },
+    {
+      "name": [
+        "/CSI_A_D0_P",
+        "/CSI_A_D0_N"
+      ],
+      "length": [
+        "18.991",
+        "18.991"
+      ],
+      "width": [
+        "0.182",
+        "0.182"
+      ],
+      "impedance": 50.0,
+      "diff": true,
+      "charts": {
+        "impedance": [
+          "./CSI_A_D0_Diff/Z_1.png",
+          "./CSI_A_D0_Diff/Z_3.png"
+        ],
+        "smith": [
+          "./CSI_A_D0_Diff/S_11_smith.png",
+          "./CSI_A_D0_Diff/S_33_smith.png"
+        ],
+        "s-param": [
+          "./CSI_A_D0_Diff/S_x1.png",
+          "./CSI_A_D0_Diff/S_x3.png"
+        ],
+        "diff_delay": [
+          "./CSI_A_D0_Diff/diff_delay.png"
+        ],
+        "diff_impedance": [
+          "./CSI_A_D0_Diff/Z_diff.png"
+        ],
+        "diff_s-param": [
+          "./CSI_A_D0_Diff/SDD_Diff.png"
+        ],
+        "s-param_and_smith": [
+          "./CSI_A_D0_Diff/s_param_and_smith_1.png",
+          "./CSI_A_D0_Diff/s_param_and_smith_3.png"
+        ]
+      },
+      "image": "./CSI_A_D0_Diff/top_view.png"
+    },
+    {
+      "name": "Net-(J1-Pad40)",
+      "length": "11.344",
+      "width": "0.182",
+      "impedance": 50.0,
+      "diff": false,
+      "charts": {
+        "impedance": [
+          "./Net-J1-Pad40/Z_1.png"
+        ],
+        "smith": [
+          "./Net-J1-Pad40/S_11_smith.png"
+        ],
+        "s-param": [
+          "./Net-J1-Pad40/S_x1.png"
+        ],
+        "s-param_and_smith": [
+          "./Net-J1-Pad40/s_param_and_smith_1.png"
+        ]
+      },
+      "image": "./Net-J1-Pad40/top_view.png"
+    }
+  ]
+}
